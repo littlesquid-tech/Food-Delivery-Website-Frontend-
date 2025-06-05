@@ -10,3 +10,8 @@ Custom-styled navigation bar and buttons
 Contact form (non-functional demo)
 
 This project is purely frontend and does not include any backend or dynamic functionality.
+
+## Project Authors
+- [Rohan Chavan]((https://github.com/Grintx))
+- [Varsha Hiregoudar]((https://github.com/littlesquid-tech))
+
